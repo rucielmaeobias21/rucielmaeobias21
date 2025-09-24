@@ -8,10 +8,12 @@
 <a href="https://www.tiktok.com/@chielobias21?_t=ZS-8zyf78Xw9I7&_r=1" target="blank" ><img src="https://i.pinimg.com/736x/09/43/6c/09436cae0890444c40626329c65075b2.jpg?raw=true" height="50" widht="50"></a>
 
 ## MY GITHUB STATS
-<img src="https://github-readme-stats.vercel.app/api?username=jaredbatoon05&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rucielmaeobias21&show_icons=true&theme=radical)
 
 ##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaredbatoon05&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rucielmaeobias21&theme=radical)](https://git.io/streak-stats)
 
 # CREDITS
 <a href="https://github.com/mishmanners"> MishManners®™ AKA the Hackathon Queen®™</a> <br>
