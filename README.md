@@ -12,6 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rucielmaeobias21&show_icons=true&theme=radical)
 
 ##
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rucielmaeobias21&theme=radical)](https://git.io/streak-stats)
 
 
 # CREDITS
